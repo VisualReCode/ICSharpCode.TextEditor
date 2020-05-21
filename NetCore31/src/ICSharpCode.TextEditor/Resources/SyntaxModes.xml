@@ -1,0 +1,361 @@
+<SyntaxModes version="1.0">
+
+  <!-- ReSharper disable MarkupAttributeTypo -->
+
+  <Mode file="ActionScript.xshd"
+        name="ActionScript"
+        extensions=".as;.mx" />
+
+  <Mode file="Ada.xshd"
+        name="Ada"
+        extensions=".ada;.ads;.adb" />
+
+  <Mode file="ANTLR.xshd"
+        name="ANTLR"
+        extensions=".g;.g3;.g4" />
+
+  <Mode file="ASPX.xshd"
+        name="ASP/XHTML"
+        extensions=".asp;.aspx;.asax;.asmx" />
+
+  <Mode file="Assembly.xshd"
+        name="Assembly"
+        extensions=".asm;.ASM" />
+
+  <Mode file="AutoHotkey.xshd"
+        name="AutoHotkey"
+        extensions=".ahk" />
+
+  <Mode file="Batch.xshd"
+        name="Batch"
+        extensions=".bat;.cmd" />
+
+  <Mode file="Boo.xshd"
+        name="Boo"
+        extensions=".boo" />
+
+  <Mode file="C#.xshd"
+        name="C#"
+        extensions=".cs" />
+
+  <Mode file="C.xshd"
+        name="C"
+        extensions=".c;.h" />
+
+  <Mode file="C++.xshd"
+        name="C++"
+        extensions=".c;.h;.cc;.C;.cpp;.cxx;.hpp" />
+
+  <Mode file="Ceylon.xshd"
+        name="Ceylon"
+        extensions=".ceylon" />
+
+  <Mode file="ChucK.xshd"
+        name="ChucK"
+        extensions=".ck" />
+
+  <Mode file="Clojure.xshd"
+        name="Clojure"
+        extensions=".clj;.cljs" />
+
+  <Mode file="Cocoa.xshd"
+        name="Cocoa"
+        extensions=".atg" />
+
+  <Mode file="CoffeeScript.xshd"
+        name="CoffeeScript"
+        extensions=".coffee;.litcoffee" />
+
+  <Mode file="Cool.xshd"
+        name="Cool"
+        extensions=".cl" />
+
+  <Mode file="CSS.xshd"
+        name="CSS"
+        extensions=".css" />
+
+  <Mode file="D.xshd"
+        name="D"
+        extensions=".d" />
+
+  <Mode file="Dart.xshd"
+        name="Dart"
+        extensions=".dart" />
+
+  <Mode file="Delphi.xshd"
+        name="Delphi"
+        extensions=".dpr" />
+
+  <Mode file="Eiffel.xshd"
+        name="Eiffel"
+        extensions=".e" />
+
+  <Mode file="Elixir.xshd"
+        name="Elixir"
+        extensions=".ex;.exs" />
+
+  <Mode file="Erlang.xshd"
+        name="Erlang"
+        extensions=".erl;.hrl" />
+
+  <Mode file="F#.xshd"
+        name="F#"
+        extensions=".fs;.fsi;.fsx;.fsscript" />
+
+  <Mode file="Falcon.xshd"
+        name="Falcon"
+        extensions=".fal" />
+
+  <Mode file="Fantom.xshd"
+        name="Fantom"
+        extensions=".fan" />
+
+  <Mode file="Fortran95.xshd"
+        name="Fortran 95"
+        extensions=".f90;.f95;.f03" />
+
+  <Mode file="Go.xshd"
+        name="Go"
+        extensions=".go" />
+
+  <Mode file="Groovy.xshd"
+        name="Groovy"
+        extensions=".groovy;.gradle" />
+
+  <Mode file="Gui4Cli.xshd"
+        name="Gui4Cli"
+        extensions=".gui;.gc" />
+
+  <Mode file="Haskell.xshd"
+        name="Haskell"
+        extensions=".hs;.lhs" />
+
+  <Mode file="Haxe.xshd"
+        name="Haxe"
+        extensions=".hx" />
+
+  <Mode file="HTML.xshd"
+        name="HTML"
+        extensions=".html;.htm;.xhtml;.shtml;.shtm;.xht;.hta" />
+
+  <Mode file="Icon.xshd"
+        name="Icon"
+        extensions=".icn" />
+
+  <Mode file="ILYC.xshd"
+        name="ILYC"
+        extensions=".ilc" />
+
+  <Mode file="INI.xshd"
+        name="INI"
+        extensions=".ini;.inf;.wer;.dof" />
+
+  <Mode file="Io.xshd"
+        name="Io"
+        extensions=".io" />
+
+  <Mode file="Java.xshd"
+        name="Java"
+        extensions=".java" />
+
+  <Mode file="JavaScript.xshd"
+        name="JavaScript"
+        extensions=".js;.jsm;.jsx" />
+
+  <Mode file="JSON.xshd"
+        name="JSON"
+        extensions=".json" />
+
+  <Mode file="Julia.xshd"
+        name="Julia"
+        extensions=".jl" />
+
+  <Mode file="Just BASIC.xshd"
+        name="Just BASIC"
+        extensions=".bas" />
+
+  <Mode file="KiXtart.xshd"
+        name="KiXtart"
+        extensions=".kix" />
+
+  <Mode file="Kotlin.xshd"
+        name="Kotlin"
+        extensions=".kt;.kts" />
+
+  <Mode file="Lean.xshd"
+        name="Lean"
+        extensions=".lean;.hlean" />
+
+  <Mode file="Lisp.xshd"
+        name="Lisp"
+        extensions=".lisp;.lsp" />
+
+  <Mode file="Lua.xshd"
+        name="Lua"
+        extensions=".lua" />
+
+  <Mode file="Markdown.xshd"
+        name="Markdown"
+        extensions=".md" />
+
+  <Mode file="Nemerle.xshd"
+        name="Nemerle"
+        extensions=".n" />
+
+  <Mode file="Nim.xshd"
+        name="Nim"
+        extensions=".nim" />
+
+  <Mode file="Objective-C.xshd"
+        name="Objective-C"
+        extensions=".m" />
+
+  <Mode file="OCaml.xshd"
+        name="OCaml"
+        extensions=".ml;.mli" />
+
+  <Mode file="ParaSail.xshd"
+        name="ParaSail"
+        extensions=".psi;.psl" />
+
+  <Mode file="Pascal.xshd"
+        name="Pascal"
+        extensions=".pas" />
+
+  <Mode file="Patch-Mode.xshd"
+        name="Patch"
+        extensions=".patch;.diff" />
+
+  <Mode file="PHP.xshd"
+        name="PHP"
+        extensions=".php;.php3;.php4;.php5;.hh" />
+
+  <Mode file="Pike.xshd"
+        name="Pike"
+        extensions=".pike" />
+
+  <Mode file="PowerShell.xshd"
+        name="PowerShell"
+        extensions=".ps1;.psm1" />
+
+  <Mode file="Prolog.xshd"
+        name="Prolog"
+        extensions=".pl;.pro" />
+
+  <Mode file="PureScript.xshd"
+        name="PureScript"
+        extensions=".purs" />
+
+  <Mode file="Python.xshd"
+        name="Python"
+        extensions=".py" />
+
+  <Mode file="R.xshd"
+        name="R"
+        extensions=".r" />
+
+  <Mode file="Registry.xshd"
+        name="Registry"
+        extensions=".reg" />
+
+  <Mode file="Resource.xshd"
+        name="Resource"
+        extensions=".rc" />
+
+  <Mode file="Rexx.xshd"
+        name="Rexx"
+        extensions=".rex" />
+
+  <Mode file="Rust.xshd"
+        name="Rust"
+        extensions=".rs" />
+
+  <Mode file="Scala.xshd"
+        name="Scala"
+        extensions=".scala" />
+
+  <Mode file="Scheme.xshd"
+        name="Scheme"
+        extensions=".scm;.ss" />
+
+  <Mode file="Solidity.xshd"
+        name="Solidity"
+        extensions=".sol" />
+
+  <Mode file="Spike.xshd"
+        name="Spike"
+        extensions=".spk" />
+
+  <Mode file="SQF.xshd"
+        name="SQF"
+        extensions=".sqf;.sqs" />
+
+  <Mode file="SQL.xshd"
+        name="SQL"
+        extensions=".sql;.tsql;.psql" />
+
+  <Mode file="Swift.xshd"
+        name="Swift"
+        extensions=".swift" />
+
+  <Mode file="TCL.xshd"
+        name="TCL"
+        extensions=".tcl" />
+
+  <Mode file="Tex-Mode.xshd"
+        name="TeX"
+        extensions=".tex" />
+
+  <Mode file="Thrift.xshd"
+        name="Thrift"
+        extensions=".thrift" />
+
+  <Mode file="TypeScript.xshd"
+        name="TypeScript"
+        extensions=".ts;.tsx" />
+
+  <Mode file="Vala.xshd"
+        name="Vala"
+        extensions=".vala" />
+
+  <Mode file="VBScript.xshd"
+        name="VBScript"
+        extensions=".vbs" />
+
+  <Mode file="VB.NET.xshd"
+        name="VB.NET"
+        extensions=".vb" />
+
+  <Mode file="Verilog.xshd"
+        name="Verilog"
+        extensions=".v;.vh" />
+
+  <Mode file="VHDL.xshd"
+        name="VHDL"
+        extensions=".vhd;.vhdl" />
+
+  <Mode file="Volt.xshd"
+        name="Volt"
+        extensions=".volt" />
+
+  <Mode file="VS Solution.xshd"
+        name="VS Solution"
+        extensions=".sln" />
+
+  <Mode file="XC.xshd"
+        name="XC"
+        extensions=".xc" />
+
+  <Mode file="X10.xshd"
+        name="X10"
+        extensions=".x10" />
+
+  <Mode file="XML.xshd"
+        name="XML"
+        extensions=".xml;.xsl;.xslt;.xhtml;.xsd;.syn;.lang;.manifest;.config;.addin;.xshd;.wxs;.wxi;.wxl;.proj;.csproj;.vbproj;.vcproj;.vcxproj;.vcxproj.filters;.resx;.user;.ilproj;.booproj;.build;.xfrm;.targets;.props;.xaml;.xpt;.xft;.map;.wsdl;.disco;.ruleset;.settings;.DotSettings;.cd;.svg;.xlf;.fodp;.fods;.fodt;.arxml" />
+
+  <Mode file="Xtend.xshd"
+        name="Xtend"
+        extensions=".xtend" />
+
+</SyntaxModes>
